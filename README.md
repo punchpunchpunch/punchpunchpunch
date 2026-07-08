@@ -2,7 +2,7 @@
 
 > A personal archive for learning embedded systems.
 
-## Overview
+## Languages
 
 This repository contains my study notes, example code, hardware projects, and experiments related to embedded systems.
 
