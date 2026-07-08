@@ -1,6 +1,6 @@
 # Embedded Systems Archive
 
-> A personal archive for learning, experimenting, and documenting embedded systems.
+> A personal archive for learning embedded systems.
 
 ## Overview
 
